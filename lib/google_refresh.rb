@@ -60,7 +60,7 @@ module GoogleRefresh
           grant_type: GRANT_TYPE
         },
         headers: {
-          'Content-Type': CONTENT_TYPE
+          content_type: CONTENT_TYPE
 
         }
       }
